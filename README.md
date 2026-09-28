@@ -38,5 +38,5 @@ I document my labs with:
 
 ## 📫 Connect
 
-LinkedIn: https://www.linkedin.com/in/abdulkabeer-warimani-b36006316/
-Email: abdulkabeerwarimani@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdulkabeer-warimani-b36006316/
+- Email: abdulkabeerwarimani@gmail.com
