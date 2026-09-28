@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Abdulkabeer 👋
 
-<!--
-**Abdulkabeer-W/Abdulkabeer-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Cybersecurity Student | Networking | Network Security | Cloud
 
-Here are some ideas to get you started:
+I am building my skills through hands-on labs and technical projects
+in networking, cybersecurity, cloud and network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Current Focus
+
+- Networking and CCNA
+- Palo Alto Networks
+- Site-to-Site IPsec VPN
+- GlobalProtect
+- Cloud Engineering
+- Network Security
+- Cybersecurity Operations
+
+## 🧪 Hands-on Labs
+
+- Palo Alto GlobalProtect VPN Lab
+- Palo Alto Site-to-Site IPsec VPN Lab
+- Cisco Networking Labs
+- SOC / SIEM Labs
+
+## 🛠️ Technologies
+
+Cisco | Palo Alto Networks | VMware | Windows | Linux
+Networking | VPN | Firewalls | SIEM | Python | Cloud
+
+## 📚 What I'm Building
+
+I document my labs with:
+- Network diagrams
+- Configuration steps
+- Testing
+- Troubleshooting
+- Final working configurations
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/abdulkabeer-warimani-b36006316/
+Email: abdulkabeerwarimani@gmail.com
